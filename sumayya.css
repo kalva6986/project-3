@@ -1,0 +1,18 @@
+
+body{
+    background:linear-gradient(skyblue )
+}
+.suma{
+    background-color: aqua;
+    width: 100vw;
+    text-align: center;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.shirts{
+    display: flex;
+    justify-content: space-evenly;
+}
